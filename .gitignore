@@ -1,18 +1,9 @@
-# Windows system junk
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-
-# Mac system junk (in case you zip and share)
+# System files
 .DS_Store
+Thumbs.db
 
-# VSCode stuff (if you use it)
+# VSCode junk
 .vscode/
 
-# Cache and temp files
-*.log
-*.tmp
-*.cache
-
-# Ignore OS-specific folders if they somehow sneak in
+# Windows temp
 AppData/
